@@ -1,14 +1,3 @@
-
-/*
- * Copyright (C) Rida Bazzi, 2016
- *
- *Project Implemented By : 
- *Subhadarshi Samal(ssamal1)
- *Gurshinder Sodhi(gsodhi)
- *Man Do(mmdo1)
- *
- * Do not share this file with anyone
- */
 #include <iostream>
 #include <istream>
 #include <vector>
